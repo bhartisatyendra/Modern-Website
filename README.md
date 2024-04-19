@@ -1,7 +1,7 @@
 # Modern-Website
 <h2>Modern Lnading Page</h2>
 <a href="#" target="_blank">
-  <img src="" alt="landing page">
+  <img src="./assets/Page_Screenshot.png" alt="landing page">
 </a>
 ** Documenation of Project **
 <p>This landing page is created using:-</p>
